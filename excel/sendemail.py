@@ -87,6 +87,7 @@ class GMM:
                     # mail.send(content)
                 # mail.send(content)
 
+
 if __name__ == '__main__':
     gmm = GMM(1,'24',['5001','10000'],2)
     # 搜索参数设置
